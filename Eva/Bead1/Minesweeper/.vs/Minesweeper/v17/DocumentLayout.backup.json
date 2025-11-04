@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\",
+  "WorkspaceRootPath": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|b:\\workspaces\\bpatrikit\\elte_25_26_1\\eva\\bead1\\minesweeper\\view\\gamewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\eva\\bead1\\minesweeper\\view\\gamewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:view\\gamewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|b:\\workspaces\\bpatrikit\\elte_25_26_1\\eva\\bead1\\minesweeper\\view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|b:\\workspaces\\bpatrikit\\elte_25_26_1\\eva\\bead1\\minesweeper\\view\\gamewindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\eva\\bead1\\minesweeper\\view\\gamewindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:view\\gamewindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|b:\\workspaces\\bpatrikit\\elte_25_26_1\\eva\\bead1\\minesweeper\\view\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:view\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|b:\\workspaces\\bpatrikit\\elte_25_26_1\\eva\\bead1\\minesweeper\\view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|b:\\workspaces\\bpatrikit\\elte_25_26_1\\eva\\bead1\\minesweeper\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\eva\\bead1\\minesweeper\\model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:model\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|b:\\workspaces\\bpatrikit\\elte_25_26_1\\eva\\bead1\\minesweeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|b:\\workspaces\\bpatrikit\\elte_25_26_1\\eva\\bead1\\minesweeper\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\eva\\bead1\\minesweeper\\model\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:model\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|b:\\workspaces\\bpatrikit\\elte_25_26_1\\eva\\bead1\\minesweeper\\model\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\eva\\bead1\\minesweeper\\model\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:model\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|b:\\workspaces\\bpatrikit\\elte_25_26_1\\eva\\bead1\\minesweeper\\model\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:model\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\eva\\bead1\\minesweeper\\view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:view\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\eva\\bead1\\minesweeper\\view\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:view\\menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\eva\\bead1\\minesweeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\eva\\bead1\\minesweeper\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5210771-E9BB-4295-9840-CF557FA291DB}|Minesweeper.csproj|solutionrelative:model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,11 +74,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\View\\Menu.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\View\\Menu.cs",
               "RelativeDocumentMoniker": "View\\Menu.cs",
-              "ToolTip": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\View\\Menu.cs [Design]",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\View\\Menu.cs [Design]",
               "RelativeToolTip": "View\\Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T16:23:53.229Z",
@@ -88,48 +88,47 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameWindow.cs",
-              "DocumentMoniker": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\View\\GameWindow.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\View\\GameWindow.cs",
               "RelativeDocumentMoniker": "View\\GameWindow.cs",
-              "ToolTip": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\View\\GameWindow.cs",
-              "RelativeToolTip": "View\\GameWindow.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\View\\GameWindow.cs*",
+              "RelativeToolTip": "View\\GameWindow.cs*",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAuwMAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T14:38:42.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GameWindow.Designer.cs",
-              "DocumentMoniker": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\View\\GameWindow.Designer.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\View\\GameWindow.Designer.cs",
               "RelativeDocumentMoniker": "View\\GameWindow.Designer.cs",
-              "ToolTip": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\View\\GameWindow.Designer.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\View\\GameWindow.Designer.cs",
               "RelativeToolTip": "View\\GameWindow.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T14:38:33.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Menu.cs",
-              "DocumentMoniker": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\View\\Menu.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\View\\Menu.cs",
               "RelativeDocumentMoniker": "View\\Menu.cs",
-              "ToolTip": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\View\\Menu.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\View\\Menu.cs",
               "RelativeToolTip": "View\\Menu.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:06:05.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T08:06:05.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Menu.Designer.cs",
-              "DocumentMoniker": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\View\\Menu.Designer.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\View\\Menu.Designer.cs",
               "RelativeDocumentMoniker": "View\\Menu.Designer.cs",
-              "ToolTip": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\View\\Menu.Designer.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\View\\Menu.Designer.cs",
               "RelativeToolTip": "View\\Menu.Designer.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,65 +137,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\Program.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\Program.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:01:03.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T08:01:03.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Game.cs",
-              "DocumentMoniker": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Game.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Game.cs",
               "RelativeDocumentMoniker": "Model\\Game.cs",
-              "ToolTip": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Game.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Game.cs",
               "RelativeToolTip": "Model\\Game.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswB8AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAA7wFsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T22:10:42.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Player.cs",
-              "DocumentMoniker": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Player.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Player.cs",
               "RelativeDocumentMoniker": "Model\\Player.cs",
-              "ToolTip": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Player.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Player.cs",
               "RelativeToolTip": "Model\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T22:09:04.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T22:09:04.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Board.cs",
-              "DocumentMoniker": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Board.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Board.cs",
               "RelativeDocumentMoniker": "Model\\Board.cs",
-              "ToolTip": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Board.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Board.cs",
               "RelativeToolTip": "Model\\Board.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAkwC8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwF8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T21:43:14.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Cell.cs",
-              "DocumentMoniker": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Cell.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Cell.cs",
               "RelativeDocumentMoniker": "Model\\Cell.cs",
-              "ToolTip": "B:\\WorkSpaces\\BPatrikIT\\Elte_25_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Cell.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\Bead1\\Minesweeper\\Model\\Cell.cs",
               "RelativeToolTip": "Model\\Cell.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T21:41:40.287Z",
               "EditorCaption": ""
