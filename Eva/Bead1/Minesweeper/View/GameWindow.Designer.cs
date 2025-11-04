@@ -1,6 +1,6 @@
 ﻿namespace Minesweeper.View
 {
-    partial class Menu
+    partial class GameWindow
     {
         /// <summary>
         /// Required designer variable.
@@ -28,14 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            SuspendLayout();
-            // 
-            // Menu
-            // 
-            ClientSize = new Size(284, 261);
-            Name = "Menu";
-            ResumeLayout(false);
-
+            this.components = new System.ComponentModel.Container();
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Text = "GameWindow";
         }
 
         #endregion
