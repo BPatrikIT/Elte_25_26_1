@@ -1,0 +1,6 @@
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\ImageDownloader\obj\Debug\net8.0-windows\ImageDownloader.csproj.AssemblyReference.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\ImageDownloader\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\ImageDownloader\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\ImageDownloader\obj\Debug\net8.0-windows\App.g.cs
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\ImageDownloader\obj\Debug\net8.0-windows\ImageDownloader_MarkupCompile.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\ImageDownloader\obj\Debug\net8.0-windows\ImageDownloader_MarkupCompile.lref

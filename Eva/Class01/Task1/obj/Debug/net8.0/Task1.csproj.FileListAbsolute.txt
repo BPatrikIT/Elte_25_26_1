@@ -1,0 +1,14 @@
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class01\Task1\bin\Debug\net8.0\Task1.exe
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class01\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class01\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class01\Task1\bin\Debug\net8.0\Task1.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class01\Task1\bin\Debug\net8.0\Task1.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class01\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class01\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class01\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class01\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class01\Task1\obj\Debug\net8.0\Task1.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class01\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class01\Task1\obj\Debug\net8.0\Task1.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class01\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class01\Task1\obj\Debug\net8.0\ref\Task1.dll

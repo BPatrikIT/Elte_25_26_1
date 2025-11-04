@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PatrikITWorkSpace\\DocuStat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A29FC2A-A517-4FD5-A05E-57565E6E3A6B}|DocuStatView\\DocuStatView.csproj|c:\\patrikitworkspace\\docustat\\docustatview\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A29FC2A-A517-4FD5-A05E-57565E6E3A6B}|DocuStatView\\DocuStatView.csproj|solutionrelative:docustatview\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A29FC2A-A517-4FD5-A05E-57565E6E3A6B}|DocuStatView\\DocuStatView.csproj|c:\\patrikitworkspace\\docustat\\docustatview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A29FC2A-A517-4FD5-A05E-57565E6E3A6B}|DocuStatView\\DocuStatView.csproj|solutionrelative:docustatview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A29FC2A-A517-4FD5-A05E-57565E6E3A6B}|DocuStatView\\DocuStatView.csproj|c:\\patrikitworkspace\\docustat\\docustatview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A29FC2A-A517-4FD5-A05E-57565E6E3A6B}|DocuStatView\\DocuStatView.csproj|solutionrelative:docustatview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761C9F7F-B5D5-C9F9-4929-F7018F3DC501}|..\\Elte_2025_26_1\\Eva\\DocuStat.Complete\\DocuStat\\DocuStat.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\eva\\docustat.complete\\docustat\\model\\documentstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A29FC2A-A517-4FD5-A05E-57565E6E3A6B}|DocuStatView\\DocuStatView.csproj|c:\\patrikitworkspace\\docustat\\docustatview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A29FC2A-A517-4FD5-A05E-57565E6E3A6B}|DocuStatView\\DocuStatView.csproj|solutionrelative:docustatview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\DocuStat\\DocuStatView\\Program.cs",
+              "RelativeDocumentMoniker": "DocuStatView\\Program.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\DocuStat\\DocuStatView\\Program.cs",
+              "RelativeToolTip": "DocuStatView\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:02:28.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\DocuStat\\DocuStatView\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DocuStatView\\Form1.Designer.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\DocuStat\\DocuStatView\\Form1.Designer.cs*",
+              "RelativeToolTip": "DocuStatView\\Form1.Designer.cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T07:02:26.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentStatistics.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\DocuStat.Complete\\DocuStat\\Model\\DocumentStatistics.cs",
+              "RelativeDocumentMoniker": "..\\Elte_2025_26_1\\Eva\\DocuStat.Complete\\DocuStat\\Model\\DocumentStatistics.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\Eva\\DocuStat.Complete\\DocuStat\\Model\\DocumentStatistics.cs*",
+              "RelativeToolTip": "..\\Elte_2025_26_1\\Eva\\DocuStat.Complete\\DocuStat\\Model\\DocumentStatistics.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:57:35.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\DocuStat\\DocuStatView\\Form1.cs",
+              "RelativeDocumentMoniker": "DocuStatView\\Form1.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\DocuStat\\DocuStatView\\Form1.cs*",
+              "RelativeToolTip": "DocuStatView\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:45:30.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\DocuStat\\DocuStatView\\Form1.cs",
+              "RelativeDocumentMoniker": "DocuStatView\\Form1.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\DocuStat\\DocuStatView\\Form1.cs [Design]*",
+              "RelativeToolTip": "DocuStatView\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T06:15:47.737Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

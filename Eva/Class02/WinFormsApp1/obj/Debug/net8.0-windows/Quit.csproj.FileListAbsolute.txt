@@ -1,0 +1,16 @@
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\bin\Debug\net8.0-windows\Quit.exe
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\bin\Debug\net8.0-windows\Quit.deps.json
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\bin\Debug\net8.0-windows\Quit.runtimeconfig.json
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\bin\Debug\net8.0-windows\Quit.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\bin\Debug\net8.0-windows\Quit.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\obj\Debug\net8.0-windows\Quit.csproj.GenerateResource.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\obj\Debug\net8.0-windows\Quit.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\obj\Debug\net8.0-windows\Quit.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\obj\Debug\net8.0-windows\Quit.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\obj\Debug\net8.0-windows\Quit.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\obj\Debug\net8.0-windows\Quit.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\obj\Debug\net8.0-windows\refint\Quit.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\obj\Debug\net8.0-windows\Quit.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\obj\Debug\net8.0-windows\Quit.genruntimeconfig.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\WinFormsApp1\obj\Debug\net8.0-windows\ref\Quit.dll

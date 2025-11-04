@@ -1,0 +1,1 @@
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\QuickNews\QuickNews\QuickNews.csproj;x64

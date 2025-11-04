@@ -1,0 +1,17 @@
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\bin\Debug\net8.0-windows\DigitalClock.exe
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\bin\Debug\net8.0-windows\DigitalClock.deps.json
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\bin\Debug\net8.0-windows\DigitalClock.runtimeconfig.json
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\bin\Debug\net8.0-windows\DigitalClock.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\bin\Debug\net8.0-windows\DigitalClock.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.Clock.resources
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.Form1.resources
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.csproj.GenerateResource.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\obj\Debug\net8.0-windows\refint\DigitalClock.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\obj\Debug\net8.0-windows\DigitalClock.genruntimeconfig.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\DigitalClock\obj\Debug\net8.0-windows\ref\DigitalClock.dll

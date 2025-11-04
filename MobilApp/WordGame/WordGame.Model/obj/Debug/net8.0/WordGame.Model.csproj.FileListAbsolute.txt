@@ -1,0 +1,12 @@
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\WordGame\WordGame.Model\bin\Debug\net8.0\Data\wordshu.txt
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\WordGame\WordGame.Model\bin\Debug\net8.0\WordGame.Model.deps.json
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\WordGame\WordGame.Model\bin\Debug\net8.0\WordGame.Model.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\WordGame\WordGame.Model\bin\Debug\net8.0\WordGame.Model.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\WordGame\WordGame.Model\obj\Debug\net8.0\WordGame.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\WordGame\WordGame.Model\obj\Debug\net8.0\WordGame.Model.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\WordGame\WordGame.Model\obj\Debug\net8.0\WordGame.Model.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\WordGame\WordGame.Model\obj\Debug\net8.0\WordGame.Model.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\WordGame\WordGame.Model\obj\Debug\net8.0\WordGame.Model.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\WordGame\WordGame.Model\obj\Debug\net8.0\refint\WordGame.Model.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\WordGame\WordGame.Model\obj\Debug\net8.0\WordGame.Model.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\WordGame\WordGame.Model\obj\Debug\net8.0\ref\WordGame.Model.dll

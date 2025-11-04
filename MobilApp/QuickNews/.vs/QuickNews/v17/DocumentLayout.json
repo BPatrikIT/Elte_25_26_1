@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\QuickNews\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{284CE166-9FBC-45B3-9020-C39CE670D73F}|QuickNews\\QuickNews.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\quicknews\\quicknews\\searchresultspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{284CE166-9FBC-45B3-9020-C39CE670D73F}|QuickNews\\QuickNews.csproj|solutionrelative:quicknews\\searchresultspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284CE166-9FBC-45B3-9020-C39CE670D73F}|QuickNews\\QuickNews.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\quicknews\\quicknews\\searchresultspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284CE166-9FBC-45B3-9020-C39CE670D73F}|QuickNews\\QuickNews.csproj|solutionrelative:quicknews\\searchresultspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284CE166-9FBC-45B3-9020-C39CE670D73F}|QuickNews\\QuickNews.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\quicknews\\quicknews\\dto\\feedlysearchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284CE166-9FBC-45B3-9020-C39CE670D73F}|QuickNews\\QuickNews.csproj|solutionrelative:quicknews\\dto\\feedlysearchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284CE166-9FBC-45B3-9020-C39CE670D73F}|QuickNews\\QuickNews.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\quicknews\\quicknews\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284CE166-9FBC-45B3-9020-C39CE670D73F}|QuickNews\\QuickNews.csproj|solutionrelative:quicknews\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284CE166-9FBC-45B3-9020-C39CE670D73F}|QuickNews\\QuickNews.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\quicknews\\quicknews\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{284CE166-9FBC-45B3-9020-C39CE670D73F}|QuickNews\\QuickNews.csproj|solutionrelative:quicknews\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{284CE166-9FBC-45B3-9020-C39CE670D73F}|QuickNews\\QuickNews.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\quicknews\\quicknews\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{284CE166-9FBC-45B3-9020-C39CE670D73F}|QuickNews\\QuickNews.csproj|solutionrelative:quicknews\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchResultsPage.xaml.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\QuickNews\\QuickNews\\SearchResultsPage.xaml.cs",
+              "RelativeDocumentMoniker": "QuickNews\\SearchResultsPage.xaml.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\QuickNews\\QuickNews\\SearchResultsPage.xaml.cs",
+              "RelativeToolTip": "QuickNews\\SearchResultsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T14:23:41.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchResultsPage.xaml",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\QuickNews\\QuickNews\\SearchResultsPage.xaml",
+              "RelativeDocumentMoniker": "QuickNews\\SearchResultsPage.xaml",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\QuickNews\\QuickNews\\SearchResultsPage.xaml",
+              "RelativeToolTip": "QuickNews\\SearchResultsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T14:19:15.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeedlySearchResult.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\QuickNews\\QuickNews\\DTO\\FeedlySearchResult.cs",
+              "RelativeDocumentMoniker": "QuickNews\\DTO\\FeedlySearchResult.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\QuickNews\\QuickNews\\DTO\\FeedlySearchResult.cs",
+              "RelativeToolTip": "QuickNews\\DTO\\FeedlySearchResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:59:47.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\QuickNews\\QuickNews\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "QuickNews\\MainPage.xaml.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\QuickNews\\QuickNews\\MainPage.xaml.cs",
+              "RelativeToolTip": "QuickNews\\MainPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:26:35.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\QuickNews\\QuickNews\\MainPage.xaml",
+              "RelativeDocumentMoniker": "QuickNews\\MainPage.xaml",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\QuickNews\\QuickNews\\MainPage.xaml",
+              "RelativeToolTip": "QuickNews\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T13:19:51.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\QuickNews\\QuickNews\\App.xaml.cs",
+              "RelativeDocumentMoniker": "QuickNews\\App.xaml.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\QuickNews\\QuickNews\\App.xaml.cs",
+              "RelativeToolTip": "QuickNews\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:11:27.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

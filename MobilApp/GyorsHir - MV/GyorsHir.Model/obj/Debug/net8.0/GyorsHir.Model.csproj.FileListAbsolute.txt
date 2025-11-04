@@ -1,0 +1,12 @@
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\GyorsHir - MV\GyorsHir.Model\bin\Debug\net8.0\GyorsHir.Model.deps.json
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\GyorsHir - MV\GyorsHir.Model\bin\Debug\net8.0\GyorsHir.Model.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\GyorsHir - MV\GyorsHir.Model\bin\Debug\net8.0\GyorsHir.Model.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\GyorsHir - MV\GyorsHir.Model\obj\Debug\net8.0\GyorsHir.Model.csproj.AssemblyReference.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\GyorsHir - MV\GyorsHir.Model\obj\Debug\net8.0\GyorsHir.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\GyorsHir - MV\GyorsHir.Model\obj\Debug\net8.0\GyorsHir.Model.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\GyorsHir - MV\GyorsHir.Model\obj\Debug\net8.0\GyorsHir.Model.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\GyorsHir - MV\GyorsHir.Model\obj\Debug\net8.0\GyorsHir.Model.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\GyorsHir - MV\GyorsHir.Model\obj\Debug\net8.0\GyorsHir.Model.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\GyorsHir - MV\GyorsHir.Model\obj\Debug\net8.0\refint\GyorsHir.Model.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\GyorsHir - MV\GyorsHir.Model\obj\Debug\net8.0\GyorsHir.Model.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\GyorsHir - MV\GyorsHir.Model\obj\Debug\net8.0\ref\GyorsHir.Model.dll

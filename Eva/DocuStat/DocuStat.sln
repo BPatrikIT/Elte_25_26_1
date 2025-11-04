@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocuStatView", "DocuStatView\DocuStatView.csproj", "{7A29FC2A-A517-4FD5-A05E-57565E6E3A6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocuStat", "..\Elte_2025_26_1\Eva\DocuStat.Complete\DocuStat\DocuStat.csproj", "{761C9F7F-B5D5-C9F9-4929-F7018F3DC501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A29FC2A-A517-4FD5-A05E-57565E6E3A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A29FC2A-A517-4FD5-A05E-57565E6E3A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A29FC2A-A517-4FD5-A05E-57565E6E3A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A29FC2A-A517-4FD5-A05E-57565E6E3A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{761C9F7F-B5D5-C9F9-4929-F7018F3DC501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761C9F7F-B5D5-C9F9-4929-F7018F3DC501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761C9F7F-B5D5-C9F9-4929-F7018F3DC501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761C9F7F-B5D5-C9F9-4929-F7018F3DC501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA42F24F-FEF4-416D-8DC7-D491EAF54E2B}
+	EndGlobalSection
+EndGlobal

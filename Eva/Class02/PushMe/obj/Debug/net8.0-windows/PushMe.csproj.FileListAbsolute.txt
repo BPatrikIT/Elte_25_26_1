@@ -1,0 +1,16 @@
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\bin\Debug\net8.0-windows\PushMe.exe
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\bin\Debug\net8.0-windows\PushMe.deps.json
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\bin\Debug\net8.0-windows\PushMe.runtimeconfig.json
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\bin\Debug\net8.0-windows\PushMe.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\bin\Debug\net8.0-windows\PushMe.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\obj\Debug\net8.0-windows\PushMe.Form1.resources
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\obj\Debug\net8.0-windows\PushMe.csproj.GenerateResource.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\obj\Debug\net8.0-windows\PushMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\obj\Debug\net8.0-windows\PushMe.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\obj\Debug\net8.0-windows\PushMe.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\obj\Debug\net8.0-windows\PushMe.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\obj\Debug\net8.0-windows\PushMe.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\obj\Debug\net8.0-windows\refint\PushMe.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\obj\Debug\net8.0-windows\PushMe.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\obj\Debug\net8.0-windows\PushMe.genruntimeconfig.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\Eva\Class02\PushMe\obj\Debug\net8.0-windows\ref\PushMe.dll
