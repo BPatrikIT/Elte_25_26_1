@@ -1,0 +1,11 @@
+debug/diskwidget.o
+debug/hanoimodel.o
+debug/main.o
+debug/hanoiview.o
+debug/mydrag.o
+debug/towerwidget.o
+debug/moc_diskwidget.o
+debug/moc_hanoimodel.o
+debug/moc_hanoiview.o
+debug/moc_mydrag.o
+debug/moc_towerwidget.o

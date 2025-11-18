@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordGame", "WordGame\WordGame.csproj", "{9D7524F6-E891-4C70-A60E-9C995127159A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordGame.Model", "WordGame.Model\WordGame.Model.csproj", "{26BBD130-F190-44A0-B61B-2562F37B6C3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordGame.Persistence", "WordGame.Persistence\WordGame.Persistence.csproj", "{810D6B3A-681E-44F6-A217-D41D9A88E364}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistence", "Persistence", "{C3A09ADC-C22F-45E8-9117-6210AF2C1A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGame.Persistence.BinaryFile", "WordGame.Persistence.BinaryFile\WordGame.Persistence.BinaryFile.csproj", "{5BD1EF57-14FC-46C6-9953-29BC4EF04282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGame.Persistence.TextJSON", "WordGame.Persistence.TextJSON\WordGame.Persistence.TextJSON.csproj", "{D708EEB5-EBA1-42ED-906E-AF8F3854F2F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordGame.ViewModel", "WordGame.ViewModel\WordGame.ViewModel.csproj", "{9EF5EB06-6B08-43F4-8E10-A65CA9F26D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D7524F6-E891-4C70-A60E-9C995127159A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7524F6-E891-4C70-A60E-9C995127159A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7524F6-E891-4C70-A60E-9C995127159A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9D7524F6-E891-4C70-A60E-9C995127159A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7524F6-E891-4C70-A60E-9C995127159A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D7524F6-E891-4C70-A60E-9C995127159A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{26BBD130-F190-44A0-B61B-2562F37B6C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BBD130-F190-44A0-B61B-2562F37B6C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BBD130-F190-44A0-B61B-2562F37B6C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BBD130-F190-44A0-B61B-2562F37B6C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{810D6B3A-681E-44F6-A217-D41D9A88E364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810D6B3A-681E-44F6-A217-D41D9A88E364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810D6B3A-681E-44F6-A217-D41D9A88E364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810D6B3A-681E-44F6-A217-D41D9A88E364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD1EF57-14FC-46C6-9953-29BC4EF04282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD1EF57-14FC-46C6-9953-29BC4EF04282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD1EF57-14FC-46C6-9953-29BC4EF04282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD1EF57-14FC-46C6-9953-29BC4EF04282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D708EEB5-EBA1-42ED-906E-AF8F3854F2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D708EEB5-EBA1-42ED-906E-AF8F3854F2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D708EEB5-EBA1-42ED-906E-AF8F3854F2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D708EEB5-EBA1-42ED-906E-AF8F3854F2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF5EB06-6B08-43F4-8E10-A65CA9F26D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF5EB06-6B08-43F4-8E10-A65CA9F26D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF5EB06-6B08-43F4-8E10-A65CA9F26D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF5EB06-6B08-43F4-8E10-A65CA9F26D13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{810D6B3A-681E-44F6-A217-D41D9A88E364} = {C3A09ADC-C22F-45E8-9117-6210AF2C1A6F}
+		{5BD1EF57-14FC-46C6-9953-29BC4EF04282} = {C3A09ADC-C22F-45E8-9117-6210AF2C1A6F}
+		{D708EEB5-EBA1-42ED-906E-AF8F3854F2F2} = {C3A09ADC-C22F-45E8-9117-6210AF2C1A6F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20D7414D-96AF-4B38-8CDF-F89B327F8DB5}
+	EndGlobalSection
+EndGlobal

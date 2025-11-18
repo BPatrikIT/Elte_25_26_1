@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\WordGame - MV IPersistence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7524F6-E891-4C70-A60E-9C995127159A}|WordGame\\WordGame.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\wordgame - mv ipersistence\\wordgame\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D7524F6-E891-4C70-A60E-9C995127159A}|WordGame\\WordGame.csproj|solutionrelative:wordgame\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF5EB06-6B08-43F4-8E10-A65CA9F26D13}|WordGame.ViewModel\\WordGame.ViewModel.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\wordgame - mv ipersistence\\wordgame.viewmodel\\wordgameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF5EB06-6B08-43F4-8E10-A65CA9F26D13}|WordGame.ViewModel\\WordGame.ViewModel.csproj|solutionrelative:wordgame.viewmodel\\wordgameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7524F6-E891-4C70-A60E-9C995127159A}|WordGame\\WordGame.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\wordgame - mv ipersistence\\wordgame\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7524F6-E891-4C70-A60E-9C995127159A}|WordGame\\WordGame.csproj|solutionrelative:wordgame\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7524F6-E891-4C70-A60E-9C995127159A}|WordGame\\WordGame.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\wordgame - mv ipersistence\\wordgame\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7524F6-E891-4C70-A60E-9C995127159A}|WordGame\\WordGame.csproj|solutionrelative:wordgame\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF5EB06-6B08-43F4-8E10-A65CA9F26D13}|WordGame.ViewModel\\WordGame.ViewModel.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\wordgame - mv ipersistence\\wordgame.viewmodel\\bindingsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF5EB06-6B08-43F4-8E10-A65CA9F26D13}|WordGame.ViewModel\\WordGame.ViewModel.csproj|solutionrelative:wordgame.viewmodel\\bindingsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF5EB06-6B08-43F4-8E10-A65CA9F26D13}|WordGame.ViewModel\\WordGame.ViewModel.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\wordgame - mv ipersistence\\wordgame.viewmodel\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF5EB06-6B08-43F4-8E10-A65CA9F26D13}|WordGame.ViewModel\\WordGame.ViewModel.csproj|solutionrelative:wordgame.viewmodel\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\WordGame - MV IPersistence\\WordGame\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WordGame\\App.xaml.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\WordGame - MV IPersistence\\WordGame\\App.xaml.cs",
+              "RelativeToolTip": "WordGame\\App.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:38:19.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\WordGame - MV IPersistence\\WordGame\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "WordGame\\MainPage.xaml.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\WordGame - MV IPersistence\\WordGame\\MainPage.xaml.cs",
+              "RelativeToolTip": "WordGame\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:37:12.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\WordGame - MV IPersistence\\WordGame\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WordGame\\MainPage.xaml",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\WordGame - MV IPersistence\\WordGame\\MainPage.xaml",
+              "RelativeToolTip": "WordGame\\MainPage.xaml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-06T14:37:06.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BindingSource.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\WordGame - MV IPersistence\\WordGame.ViewModel\\BindingSource.cs",
+              "RelativeDocumentMoniker": "WordGame.ViewModel\\BindingSource.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\WordGame - MV IPersistence\\WordGame.ViewModel\\BindingSource.cs",
+              "RelativeToolTip": "WordGame.ViewModel\\BindingSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:34:11.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\WordGame - MV IPersistence\\WordGame.ViewModel\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "WordGame.ViewModel\\DelegateCommand.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\WordGame - MV IPersistence\\WordGame.ViewModel\\DelegateCommand.cs",
+              "RelativeToolTip": "WordGame.ViewModel\\DelegateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:34:10.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordGameViewModel.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\WordGame - MV IPersistence\\WordGame.ViewModel\\WordGameViewModel.cs",
+              "RelativeDocumentMoniker": "WordGame.ViewModel\\WordGameViewModel.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\WordGame - MV IPersistence\\WordGame.ViewModel\\WordGameViewModel.cs",
+              "RelativeToolTip": "WordGame.ViewModel\\WordGameViewModel.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:27:18.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

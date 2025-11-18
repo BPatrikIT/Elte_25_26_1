@@ -1,0 +1,11 @@
+release/diskwidget.o
+release/hanoimodel.o
+release/main.o
+release/hanoiview.o
+release/mydrag.o
+release/towerwidget.o
+release/moc_diskwidget.o
+release/moc_hanoimodel.o
+release/moc_hanoiview.o
+release/moc_mydrag.o
+release/moc_towerwidget.o

@@ -1,0 +1,371 @@
+/* Default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", Arial, sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #e8ecf3, #f7f9fc);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #333;
+}
+
+/* ----------------------------------------------------------------------------------------------- */
+
+/* Menu Page Styles */
+/* Menu main container */
+.menu-container {
+    background: #ffffffcc;
+    backdrop-filter: blur(8px);
+    padding: 40px;
+    border-radius: 16px;
+    width: 90%;
+    max-width: 450px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+    animation: fadeIn 0.3s ease-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Title */
+.menu-container h1 {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 25px;
+    color: #222;
+}
+
+/* Player Name Input */
+.name-input-section {
+    margin-bottom: 25px;
+}
+
+.name-input-section label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 600;
+    opacity: 0.85;
+}
+
+#playerName {
+    width: 100%;
+    padding: 12px 14px;
+    border-radius: 10px;
+    border: 2px solid #d5dbe3;
+    font-size: 16px;
+    transition: 0.2s;
+}
+
+#playerName:focus {
+    border-color: #4a7df2;
+    outline: none;
+}
+
+/* Error indication */
+.input-error {
+    border-color: #ff6060 !important;
+    background: #ffe6e6;
+}
+
+/* Buttons */
+button {
+    width: 100%;
+    padding: 14px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 12px;
+    font-size: 17px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+/* Start button */
+.start-button {
+    background: #4a7df2;
+    color: white;
+}
+
+.start-button:hover {
+    background: #3a69d1;
+}
+
+/* Description button */
+.description-button {
+    background: #e3e8f1;
+    color: #333;
+}
+
+.description-button:hover {
+    background: #d0d4e1;
+}
+
+/* About button */
+.about-button {
+    background: #e3e8f1;
+    color: #333;
+}
+
+.about-button:hover {
+    background: #d3d9e4;
+}
+
+/* Scores list */
+#previousScores {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    text-align: center;
+    color: #222;
+}
+
+.scores-section {
+    background: #f4f6fa;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.score-list {
+    list-style: none;
+}
+
+.score-list li {
+    padding: 8px 0;
+    border-bottom: 1px solid #e3e6ea;
+}
+
+.score-list li:last-child {
+    border-bottom: none;
+}
+
+.score-list strong {
+    color: #222;
+}
+
+/* ----------------------------------------------------------------------------------------------- */
+/* Description Page Styles */
+.description-container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.description-container h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.description-container h2 {
+    margin-top: 20px;
+    font-size: 1.5rem;
+    color: #222;
+}
+
+.description-container h3 {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.description-container ul {
+    margin-left: 20px;
+}
+
+.description-container p {
+    margin-bottom: 10px;
+}
+
+.description-container .back-button {
+    display: block;
+    margin: 25px auto 0 auto;
+    padding: 10px 20px;
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.description-container .back-button:hover {
+    background-color: #357ABD;
+}
+
+/* ----------------------------------------------------------------------------------------------- */
+/* About Us Page Styles */
+.about-container {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 25px;
+    background: #f5f5f5;
+    border-radius: 12px;
+    box-shadow: 0 4px 18px rgba(0,0,0,0.1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.about-container h1 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 15px;
+}
+
+.about-container p {
+    margin-bottom: 12px;
+}
+
+.about-container hr {
+    margin: 20px 0;
+    border: none;
+    border-top: 1px solid #ccc;
+}
+
+.info-panel {
+    background-color: #e3f2fd;
+    padding: 15px 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.info-panel p {
+    margin: 5px 0;
+}
+
+.info-panel a {
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+.info-panel a:hover {
+    text-decoration: underline;
+}
+
+.about-container .back-button {
+    display: block;
+    margin: 20px auto 0 auto;
+    padding: 10px 25px;
+    font-size: 1rem;
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.about-container .back-button:hover {
+    background-color: #357ABD;
+}
+
+/* ----------------------------------------------------------------------------------------------- */
+/* Game Page Styles */
+/* Game title */
+.game-container {
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+/* Header ABOVE grid */
+.game-header {
+    background: #ffffff;
+    border-radius: 6px;
+    padding: 12px 20px;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+.exit-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    width: auto;
+    padding: 6px 12px;
+    font-size: 11px;
+    font-weight: 600;
+
+    background: #c62828;
+    color: white;
+    border: none;
+    border-radius: 3px;
+
+    cursor: pointer;
+    white-space: nowrap;  
+    
+    margin-top: auto;
+    margin-bottom: auto;
+    transition: background 0.15s;
+}
+
+.exit-button:hover {
+    background: #a01515;
+}
+
+/* Grid wrapper */
+.game-grid-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Station grid */
+.station-grid {
+    display: grid;
+    grid-template-columns: repeat(10, 48px);
+    gap: 0;
+    background: #fafafa;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.15);
+}
+
+/* Cells */
+.grid-cell {
+    background: white;
+    border: 1px solid #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.15s;
+}
+
+.grid-cell:hover {
+    background: #f0f0f0;
+    cursor: pointer;
+}
+
+/* Station style */
+.station {
+    background: #e0f0ff;
+    font-weight: bold;
+}
