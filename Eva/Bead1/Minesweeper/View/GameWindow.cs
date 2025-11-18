@@ -22,9 +22,32 @@ namespace Minesweeper.View
                 new string[] { _playerName, _player2Name },
                 new Board(_boardSize, (_boardSize * _boardSize) / 6)
             );
+            this.Text = $"MineSweeper - Game - {_playerName}'s Turn";
             InitializeBoard(_boardSize, new string[] { _playerName, _player2Name });
+
+            game.CellRevealed += OnCellRevealed;
+            game.UserChanged += OnUserChanged;
         }
 
+        private void OnCellRevealed(int row, int col)
+        {
+            foreach (Control ctrl in Controls)
+            {
+                if (ctrl is Button btn && btn.Tag is Point pt)
+                {
+                    if (pt.X == row && pt.Y == col)
+                    {
+                        UpdateButtonAppearance(btn, row, col);
+                        break;
+                    }
+                }
+            }
+        }
+
+        private void OnUserChanged(string currentUser)
+        {
+            this.Text = $"MineSweeper - Game - {currentUser}'s Turn";
+        }
 
         private void InitializeCustomGameWindow()
         {
@@ -42,6 +65,51 @@ namespace Minesweeper.View
             StartPosition = FormStartPosition.CenterScreen;
             Name = "GameWindow";
             Text = "MineSweeper - Game";
+
+            //
+            // MenuStrip (top)
+            //
+            MenuStrip menuStripMain = new MenuStrip();
+            menuStripMain.Name = "menuStripMain";
+            menuStripMain.Dock = DockStyle.Top;
+            menuStripMain.BackColor = Color.Transparent;
+            menuStripMain.RenderMode = ToolStripRenderMode.System;
+
+            // File menu and items
+            ToolStripMenuItem fileMenu = new ToolStripMenuItem("File");
+            ToolStripMenuItem saveGameItem = new ToolStripMenuItem("Save Game");
+            ToolStripMenuItem loadGameItem = new ToolStripMenuItem("Load Game");
+            ToolStripMenuItem exitItem = new ToolStripMenuItem("Exit");
+
+            fileMenu.DropDownItems.AddRange(new ToolStripItem[] {
+                saveGameItem,
+                loadGameItem,
+                new ToolStripSeparator(),
+                exitItem
+            });
+
+            // Help menu
+            ToolStripMenuItem helpMenu = new ToolStripMenuItem("Help");
+            ToolStripMenuItem aboutItem = new ToolStripMenuItem("About");
+            helpMenu.DropDownItems.Add(aboutItem);
+
+            menuStripMain.Items.AddRange(new ToolStripItem[] {
+                fileMenu,
+                helpMenu
+            });
+
+            saveGameItem.Enabled = true;
+            loadGameItem.Enabled = false;
+
+            exitItem.Click += (s, e) => this.Owner.Close();
+
+            aboutItem.Click += (s, e) =>
+            {
+                MessageBox.Show("Minesweeper Game\nDeveloped by Patrik Bartok\nVersion 1.00.00", "About Minesweeper", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            };
+
+            Controls.Add(menuStripMain);
+
             ResumeLayout(false);
             PerformLayout();
         }

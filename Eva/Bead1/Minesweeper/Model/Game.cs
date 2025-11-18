@@ -40,6 +40,8 @@ namespace Minesweeper.Model
             return board;
         }
 
+        public event Action<int, int> CellRevealed;
+
         private void RevealCell(int r, int c)
         {
             // Prevent out-of-bounds or duplicate reveals
@@ -49,6 +51,9 @@ namespace Minesweeper.Model
             var cell = board.Cells[r, c];
             if (cell.IsRevealed)
                 return;
+
+            int[] revealedRows = new int[] {  };
+            int[] revealedCols = new int[] {  };
 
             cell.IsRevealed = true;
             board.CounterOfUnRevealedCells--;
@@ -86,6 +91,7 @@ namespace Minesweeper.Model
 
                         // Recursive reveal, safe-checked at the top
                         RevealCell(newRow, newCol);
+                        CellRevealed?.Invoke(newRow, newCol);
                     }
                 }
             }
@@ -101,10 +107,13 @@ namespace Minesweeper.Model
             return true;
         }
 
+        public event Action<string> UserChanged;
+
         private void NextTurn()
         {
             //Switch to the next player
             currentPlayerIndex = (currentPlayerIndex + 1) % 2;
+            UserChanged?.Invoke(players[currentPlayerIndex].UserName);
         }
 
         private bool CheckGameOver()

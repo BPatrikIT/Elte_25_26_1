@@ -19,6 +19,11 @@ namespace Minesweeper.View
             InitializeCustomMenu();
         }
 
+        public void CloseGame(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
         private void StartButton_Click(object sender, EventArgs e)
         {
             int boardSize = 6; // default
@@ -95,8 +100,13 @@ namespace Minesweeper.View
                 helpMenu
             });
 
-            // Keep the original behaviour placeholder
             saveGameItem.Enabled = false;
+            exitItem.Click += (s, e) => this.Close();
+            
+            aboutItem.Click += (s, e) =>
+            {
+                MessageBox.Show("Minesweeper Game\nDeveloped by Patrik Bartok\nVersion 1.00.00", "About Minesweeper", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            };
 
             //
             // Main responsive layout panel
