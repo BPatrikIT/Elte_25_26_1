@@ -39,7 +39,7 @@ export async function loadLinesJson() {
    CREATE STATION MAP (array indexed by pos)
 ----------------------------------------------------------- */
 export function createStationMap(stations) {
-    const map = [];
+    const map = new Array(XMAX * YMAX).fill(null);
     stations.forEach(st => {
         map[st.pos] = st;
     });
@@ -51,15 +51,12 @@ export function createStationMap(stations) {
 ----------------------------------------------------------- */
 export function attachLinesToStations(stationMap, lines) {
     lines.forEach(line => {
-        const startPos = line.start;
-
-        stationMap.forEach(station => {
-            if (station && station.id === startPos) {
-                station.line = line.name;
-                station.lineColor = line.color;
-                station.lineId = line.id;
-            }
-        });
+        const startStation = stationMap.find(st => st && st.id === line.start);
+        if (startStation) {
+            startStation.line = line.name;
+            startStation.lineColor = line.color;
+            startStation.lineId = line.id;
+        }
     });
 
     return stationMap;

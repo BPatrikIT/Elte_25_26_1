@@ -13,27 +13,26 @@ export function MenuComponent() {
             <ul class="score-list">
                 ${scores.map(s => `
                     <li>
-                        <strong>${s.name}</strong> – ${s.points} points – ${s.time} sec
+                        <strong>${s.name}</strong> – ${s.points} pts
                     </li>
                 `).join("")}
             </ul>
         `;
 
     container.innerHTML = `
-        <h1>Welcome to the game!</h1>
+        <h1>Next Station: Budapest</h1>
 
         <div class="name-input-section">
-            <label for="playerName">Player Name:</label>
+            <label for="playerName">Username:</label>
             <input id="playerName" type="text" placeholder="Enter your name..." />
         </div>
 
-        <button class="start-button">Start</button>
-
+        <button class="start-button">Start Game</button>
         <h2 id="previousScores">Previous Scores</h2>
         <div class="scores-section">
             ${scoresHtml}
         </div>
-
+        
         <button class="description-button">Game Description</button>
         <button class="about-button">About Us</button>
     `;

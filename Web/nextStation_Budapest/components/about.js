@@ -1,4 +1,5 @@
 import { loadPage } from "../main.js"; // import SPA navigation
+import { initAboutHeartModal } from "../js/heart-modal.js";
 
 // About Us Component
 export function createAboutUs() {
@@ -19,7 +20,9 @@ export function createAboutUs() {
         <hr>
 
         <div class="info-panel">
-            <p>&copy; 2025 Bartók Patrik</p>
+            <p>&copy; 2025 Bartók Patrik 
+                <span id="about-heart" style="cursor:pointer; font-size: 1.2em;">💚</span> <b><-- CLICK ON MY HEART PLEASE</b>
+            </p>
             <p>Neptun Code: <strong>MNDJ3P</strong></p>
             <p>Website: <a href="https://patrikit.hu" target="_blank">patrikit.hu</a></p>
             <p>Contact: <a href="mailto:mndj3p@inf.elte.hu">mndj3p@inf.elte.hu</a> - <a href="mailto:bpatrik@patrikit.hu">bpatrik@patrikit.hu</a></p>
@@ -33,6 +36,11 @@ export function createAboutUs() {
     backButton.addEventListener("click", () => {
         loadPage("menu");
     });
+
+    // Initialize the heart modal logic
+    // We pass the element directly because it is not in the document body yet
+    const heart = container.querySelector("#about-heart");
+    if (heart) initAboutHeartModal(heart);
 
     return container;
 }

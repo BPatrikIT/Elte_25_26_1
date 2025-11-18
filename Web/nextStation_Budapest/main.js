@@ -24,11 +24,10 @@ export async function loadPage(page) {
     }
 
     if (page === "game") {
-    app.appendChild(GameComponent());
-    const container = document.querySelector(".game-container");
-    initGame(container);
-}
-
+        app.appendChild(GameComponent());
+        const container = document.querySelector(".game-container");
+        initGame(container);
+    }
 }
 
 // initial load

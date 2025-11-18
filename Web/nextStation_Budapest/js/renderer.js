@@ -1,142 +1,197 @@
+// js/renderer.js
 import { XMAX, YMAX } from "./stations.js";
 import { loadPage } from "../main.js";
+import { onStationClicked } from "../components/game.js";
+import { getConnectedTrainStationCount, TRAIN_POINTS_TABLE } from "./line-drawing.js";
 
 export function renderGame(container, stationsMap) {
 
     container.innerHTML = "";
 
     /* ------------------------------------------------------------------
-       CREATE GAME HEADER (outside grid, above everything)
+       CREATE GAME HEADER
     ------------------------------------------------------------------ */
     const header = document.createElement("div");
     header.classList.add("game-header");
 
     const userName = localStorage.getItem("currentPlayer") || "Player";
-
     const nameEl = document.createElement("div");
     nameEl.innerHTML = `<strong>${userName}</strong>`;
 
     const timerEl = document.createElement("div");
     timerEl.classList.add("game-timer");
 
-    // read or set timer
-    let startTime = Number(localStorage.getItem("gameStartTime"));
+    let startTime = Number(localStorage.getItem("currentStartTime"));
     if (!startTime) {
         startTime = Date.now();
-        localStorage.setItem("gameStartTime", String(startTime));
+        localStorage.setItem("currentStartTime", String(startTime));
     }
 
     function updateTimer() {
         const elapsedSec = Math.floor((Date.now() - startTime) / 1000);
-        const { hours, minutes, seconds } = convertSecondsToHMS(elapsedSec);
-        timerEl.textContent = `Time: ${hours}h ${minutes}m ${seconds}s`;
+        const h = Math.floor(elapsedSec / 3600);
+        const m = Math.floor((elapsedSec % 3600) / 60);
+        const s = elapsedSec % 60;
+        timerEl.textContent = `${h.toString().padStart(2,'0')}:${m.toString().padStart(2,'0')}:${s.toString().padStart(2,'0')}`;
     }
 
-    function convertSecondsToHMS(totalSeconds) {
-        const hours = Math.floor(totalSeconds / 3600);
-        const minutes = Math.floor((totalSeconds % 3600) / 60);
-        const seconds = totalSeconds % 60;
-
-        return { hours, minutes, seconds };
-    }
-
+    if (window.__gameTimer) clearInterval(window.__gameTimer);
     updateTimer();
-    if (window.__nextStationTimerId) clearInterval(window.__nextStationTimerId);
-    window.__nextStationTimerId = setInterval(updateTimer, 1000);
+    window.__gameTimer = setInterval(updateTimer, 1000);
 
-    // exit button
     const exitBtn = document.createElement("button");
     exitBtn.textContent = "Exit";
     exitBtn.classList.add("exit-button");
-
     exitBtn.onclick = () => {
-        // stop timer
-        if (window.__nextStationTimerId) clearInterval(window.__nextStationTimerId);
-
-        // reset game timer value
-        localStorage.removeItem("gameStartTime");
-
-        // navigate using SPA logic
+        if (window.__gameTimer) clearInterval(window.__gameTimer);
         loadPage("menu");
     };
 
-
-    // current line indicator
-    let currentLine = { name: "None", color: "#888" };
+    // Current Line Indicator
+    let currentLine = { name: "M1", color: "#f1c40f" };
     try {
-        const raw = localStorage.getItem("currentLine");
-        if (raw) currentLine = JSON.parse(raw);
-    } catch {}
+        const saved = localStorage.getItem("currentLine");
+        if (saved) currentLine = JSON.parse(saved);
+    } catch(e){}
 
-    const lineEl = document.createElement("div");
-    lineEl.classList.add("current-line");
-    lineEl.style.display = "flex";
-    lineEl.style.alignItems = "center";
-    lineEl.style.gap = "8px";
+    const lineInfo = document.createElement("div");
+    lineInfo.style.display = "flex";
+    lineInfo.style.alignItems = "center";
+    lineInfo.style.gap = "8px";
+    lineInfo.innerHTML = `<div style="width:20px;height:20px;background:${currentLine.color};border-radius:4px;"></div> <span>${currentLine.name}</span>`;
 
-    const colorBox = document.createElement("span");
-    colorBox.style.width = "16px";
-    colorBox.style.height = "16px";
-    colorBox.style.background = currentLine.color;
-    colorBox.style.border = "1px solid #333";
-    colorBox.style.borderRadius = "2px";
+    // Card Display
+    const cardDisplay = document.createElement("div");
+    cardDisplay.classList.add("card-display");
+    cardDisplay.textContent = "---";
 
-    const lineName = document.createElement("span");
-    lineName.textContent = currentLine.name;
+    const drawBtn = document.createElement("button");
+    drawBtn.classList.add("draw-card-button");
+    drawBtn.textContent = "Draw Card";
+    drawBtn.onclick = () => {
+        container.dispatchEvent(new CustomEvent("draw-card", { bubbles: true }));
+    };
 
-    lineEl.appendChild(colorBox);
-    lineEl.appendChild(lineName);
-
-    // add elements to header
     header.appendChild(nameEl);
     header.appendChild(timerEl);
-    header.appendChild(lineEl);
+    header.appendChild(lineInfo);
+    header.appendChild(cardDisplay);
+    header.appendChild(drawBtn);
     header.appendChild(exitBtn);
 
     container.appendChild(header);
 
-
     /* ------------------------------------------------------------------
-       GAME GRID SECTION
+       GAME GRID
     ------------------------------------------------------------------ */
-
     const gridWrapper = document.createElement("div");
     gridWrapper.classList.add("game-grid-wrapper");
 
     const grid = document.createElement("div");
     grid.classList.add("station-grid");
 
-    const cellSize = 48;
+    for (let i = 0; i < stationsMap.length; i++) {
+        const station = stationsMap[i];
+        const cell = document.createElement("div");
+        cell.classList.add("grid-cell");
+        cell.dataset.pos = i;
+        
+        const x = i % XMAX;
+        const y = Math.floor(i / XMAX);
+        cell.dataset.x = x;
+        cell.dataset.y = y;
 
-    for (let y = 0; y < YMAX; y++) {
-        for (let x = 0; x < XMAX; x++) {
+        if (station) {
+            cell.classList.add("station");
+            cell.dataset.type = station.type;
+            
+            if (station.train) cell.dataset.train = "true";
+            
+            const span = document.createElement("span");
+            span.textContent = station.type === "?" ? "★" : station.type;
+            cell.appendChild(span);
 
-            const index = y * XMAX + x;
-            const station = stationsMap[index];
-
-            const cell = document.createElement("div");
-            cell.classList.add("grid-cell");
-            cell.dataset.x = x;
-            cell.dataset.y = y;
-
-            cell.style.width = `${cellSize}px`;
-            cell.style.height = `${cellSize}px`;
-
-            if (station) {
-                cell.classList.add("station");
-                cell.title = station.type;
-                cell.textContent = station.type;
-
-                if (station.lineColor) {
-                    cell.style.backgroundColor = station.lineColor;
-                    cell.style.color = "#000";  // ensure readable text
-                }
+            if (station.lineColor) {
+                cell.style.setProperty("--line-color", station.lineColor);
+                cell.setAttribute("data-line-color", station.lineColor);
             }
-
-            grid.appendChild(cell);
         }
+
+        grid.appendChild(cell);
     }
+
+    grid.addEventListener("click", (e) => {
+        const cell = e.target.closest(".grid-cell");
+        if (cell) {
+            const pos = parseInt(cell.dataset.pos);
+            onStationClicked(pos);
+        }
+    });
 
     gridWrapper.appendChild(grid);
     container.appendChild(gridWrapper);
+}
+
+/* ------------------------------------------------------------------
+   MODALS FOR SCORING
+------------------------------------------------------------------ */
+export function showRoundResultModal(roundIndex, scoreData, onNext) {
+    const overlay = document.createElement("div");
+    overlay.classList.add("game-modal-overlay");
+
+    const modal = document.createElement("div");
+    modal.classList.add("game-modal");
+
+    modal.innerHTML = `
+        <h2>Round ${roundIndex} Complete!</h2>
+        <div class="score-details">
+            <div><span>Districts Touched (PK):</span> <strong>${scoreData.PK}</strong></div>
+            <div><span>Max Stations in District (PM):</span> <strong>${scoreData.PM}</strong></div>
+            <div><span>Danube Crossings (PD):</span> <strong>${scoreData.PD}</strong></div>
+        </div>
+        <div class="score-total">Round Score: ${scoreData.total}</div>
+        <button id="nextRoundBtn">Next Metro Line</button>
+    `;
+
+    overlay.appendChild(modal);
+    document.body.appendChild(overlay);
+
+    const btn = modal.querySelector("#nextRoundBtn");
+    btn.focus();
+    btn.onclick = () => {
+        overlay.remove();
+        onNext();
+    };
+}
+
+export function showGameResultModal(scoreData, onFinish) {
+    const overlay = document.createElement("div");
+    overlay.classList.add("game-modal-overlay");
+
+    const modal = document.createElement("div");
+    modal.classList.add("game-modal");
+
+    modal.innerHTML = `
+        <h2>Game Over!</h2>
+        <p>Here is your final score breakdown:</p>
+        <div class="score-details">
+            <div><span>Sum of Rounds (ΣFP):</span> <strong>${scoreData.sumFP}</strong></div>
+            <div><span>Train Points (PP):</span> <strong>${scoreData.PP}</strong></div>
+            <div><span>2-Line Interchanges (P2 x2):</span> <strong>${scoreData.P2 * 2}</strong></div>
+            <div><span>3-Line Interchanges (P3 x5):</span> <strong>${scoreData.P3 * 5}</strong></div>
+            <div><span>4-Line Interchanges (P4 x9):</span> <strong>${scoreData.P4 * 9}</strong></div>
+        </div>
+        <div class="score-total">Total Score: ${scoreData.total}</div>
+        <button id="finishGameBtn">Back to Menu</button>
+    `;
+
+    overlay.appendChild(modal);
+    document.body.appendChild(overlay);
+
+    const btn = modal.querySelector("#finishGameBtn");
+    btn.focus();
+    btn.onclick = () => {
+        overlay.remove();
+        onFinish();
+    };
 }
