@@ -28,7 +28,16 @@ export function renderGame(container, stationsMap) {
 
     function updateTimer() {
         const elapsedSec = Math.floor((Date.now() - startTime) / 1000);
-        timerEl.textContent = `Time: ${elapsedSec}s`;
+        const { hours, minutes, seconds } = convertSecondsToHMS(elapsedSec);
+        timerEl.textContent = `Time: ${hours}h ${minutes}m ${seconds}s`;
+    }
+
+    function convertSecondsToHMS(totalSeconds) {
+        const hours = Math.floor(totalSeconds / 3600);
+        const minutes = Math.floor((totalSeconds % 3600) / 60);
+        const seconds = totalSeconds % 60;
+
+        return { hours, minutes, seconds };
     }
 
     updateTimer();
