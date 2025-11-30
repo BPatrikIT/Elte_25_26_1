@@ -1,0 +1,13 @@
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\StepStats\StepStats.Model\bin\Debug\net8.0\StepStats.Model.deps.json
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\StepStats\StepStats.Model\bin\Debug\net8.0\StepStats.Model.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\StepStats\StepStats.Model\bin\Debug\net8.0\StepStats.Model.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\StepStats\StepStats.Model\obj\Debug\net8.0\StepStats.Model.csproj.AssemblyReference.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\StepStats\StepStats.Model\obj\Debug\net8.0\StepStats.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\StepStats\StepStats.Model\obj\Debug\net8.0\StepStats.Model.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\StepStats\StepStats.Model\obj\Debug\net8.0\StepStats.Model.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\StepStats\StepStats.Model\obj\Debug\net8.0\StepStats.Model.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\StepStats\StepStats.Model\obj\Debug\net8.0\StepStats.Model.sourcelink.json
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\StepStats\StepStats.Model\obj\Debug\net8.0\StepStats.Model.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\StepStats\StepStats.Model\obj\Debug\net8.0\refint\StepStats.Model.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\StepStats\StepStats.Model\obj\Debug\net8.0\StepStats.Model.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\StepStats\StepStats.Model\obj\Debug\net8.0\ref\StepStats.Model.dll
