@@ -10,15 +10,19 @@ CONFIG += c++17
 
 SOURCES += \
     cell.cpp \
+    gotodialog.cpp \
     main.cpp \
     mainwindow.cpp \
     persistence.cpp \
+    searchdialog.cpp \
     spreadsheet.cpp
 
 HEADERS += \
     cell.h \
+    gotodialog.h \
     mainwindow.h \
     persistence.h \
+    searchdialog.h \
     spreadsheet.h
 
 # Default rules for deployment.

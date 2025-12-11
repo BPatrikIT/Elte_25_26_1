@@ -8,6 +8,8 @@
 #include <QMessageBox>
 #include "persistence.h"
 #include "cell.h"
+#include "searchdialog.h"
+#include "gotodialog.h"
 
 MainWindow::MainWindow(QWidget *parent) : QMainWindow(parent) {
   m_pSpreadsheet = new Spreadsheet(new persistence(this), this);
@@ -105,12 +107,19 @@ void MainWindow::del()
 
 void MainWindow::search()
 {
-
+    SearchDialog s;
+    connect(&s, &SearchDialog::searchForward, this->m_pSpreadsheet, &Spreadsheet::searchForward);
+    connect(&s, &SearchDialog::searchBackward, this->m_pSpreadsheet, &Spreadsheet::searchBackward);
+    s.exec();
 }
 
 void MainWindow::jump()
 {
-
+    GoToDialog dialog(this);
+    if (dialog.exec() == QDialog::DialogCode::Accepted) {
+        QString target = dialog.target();
+        m_pSpreadsheet->setCurrentCell(target.right(target.size()-1).toInt() -1, target[0].toUpper().toLatin1() - 'A');
+    }
 }
 
 QAction *MainWindow::create_action(const QString &name, QIcon icon, void (MainWindow::*func)(), const QString &shortcut, const QString &tooltip)

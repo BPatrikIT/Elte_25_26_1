@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GyorsHir
+build_property.ProjectDir = C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\GyorsHir - MVVM Persistence\GyorsHir\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/PatrikITWorkSpace/Elte_2025_26_1/MobilApp/GyorsHir - MVVM Persistence/GyorsHir/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GyorsHir.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/PatrikITWorkSpace/Elte_2025_26_1/MobilApp/GyorsHir - MVVM Persistence/GyorsHir/MainFlyoutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GyorsHir.MainFlyoutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainFlyoutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainFlyoutPage.xaml
+
+[C:/PatrikITWorkSpace/Elte_2025_26_1/MobilApp/GyorsHir - MVVM Persistence/GyorsHir/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GyorsHir.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/PatrikITWorkSpace/Elte_2025_26_1/MobilApp/GyorsHir - MVVM Persistence/GyorsHir/NewsDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GyorsHir.NewsDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = NewsDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = NewsDetailsPage.xaml
+
+[C:/PatrikITWorkSpace/Elte_2025_26_1/MobilApp/GyorsHir - MVVM Persistence/GyorsHir/PortalNewsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GyorsHir.PortalNewsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = PortalNewsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = PortalNewsPage.xaml
+
+[C:/PatrikITWorkSpace/Elte_2025_26_1/MobilApp/GyorsHir - MVVM Persistence/GyorsHir/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GyorsHir.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/PatrikITWorkSpace/Elte_2025_26_1/MobilApp/GyorsHir - MVVM Persistence/GyorsHir/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GyorsHir.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/PatrikITWorkSpace/Elte_2025_26_1/MobilApp/GyorsHir - MVVM Persistence/GyorsHir/SideMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = GyorsHir.SideMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SideMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SideMenuPage.xaml

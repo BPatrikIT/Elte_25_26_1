@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GyorsHir.PortalNewsPage"
+             Title="News Portals">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackLayout BindingContext="{Binding SelectedNewsPortal}">
+            <Label x:Name="_titleLabel" Text="{Binding Title}" FontAttributes="Bold" FontSize="Large" HorizontalTextAlignment="Center" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" />
+            <Button Command="{Binding FavouriteCommand}" CommandParameter="{Binding}">
+                <Button.Triggers>
+                    <DataTrigger TargetType="Button" Binding="{Binding IsFavourite}" Value="True">
+                        <Setter Property="Text" Value="❤" />
+                    </DataTrigger>
+                    <DataTrigger TargetType="Button" Binding="{Binding IsFavourite}" Value="False">
+                        <Setter Property="Text" Value="💔" />
+                    </DataTrigger>
+                </Button.Triggers>
+            </Button>
+        </StackLayout>
+
+        <ListView Grid.Row="1" ItemsSource="{Binding NewsList}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding ShortTitle}" Detail="{Binding ShortDescription}"
+                      Command="{Binding SelectCommand}" CommandParameter="{Binding}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</ContentPage>

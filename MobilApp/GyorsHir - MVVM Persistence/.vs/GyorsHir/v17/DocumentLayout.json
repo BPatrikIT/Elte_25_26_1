@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\GyorsHir - MVVM Persistence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00A6CE79-8331-4C08-B1A7-635E169B1379}|GyorsHir.ViewModel\\GyorsHir.ViewModel.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\gyorshir - mvvm persistence\\gyorshir.viewmodel\\gyorshirviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A6CE79-8331-4C08-B1A7-635E169B1379}|GyorsHir.ViewModel\\GyorsHir.ViewModel.csproj|solutionrelative:gyorshir.viewmodel\\gyorshirviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D629DD02-F222-428E-B76E-3183CE5861A9}|GyorsHir\\GyorsHir.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\gyorshir - mvvm persistence\\gyorshir\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D629DD02-F222-428E-B76E-3183CE5861A9}|GyorsHir\\GyorsHir.csproj|solutionrelative:gyorshir\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D629DD02-F222-428E-B76E-3183CE5861A9}|GyorsHir\\GyorsHir.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\gyorshir - mvvm persistence\\gyorshir\\newsdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D629DD02-F222-428E-B76E-3183CE5861A9}|GyorsHir\\GyorsHir.csproj|solutionrelative:gyorshir\\newsdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A6CE79-8331-4C08-B1A7-635E169B1379}|GyorsHir.ViewModel\\GyorsHir.ViewModel.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\gyorshir - mvvm persistence\\gyorshir.viewmodel\\newsitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A6CE79-8331-4C08-B1A7-635E169B1379}|GyorsHir.ViewModel\\GyorsHir.ViewModel.csproj|solutionrelative:gyorshir.viewmodel\\newsitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D629DD02-F222-428E-B76E-3183CE5861A9}|GyorsHir\\GyorsHir.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\gyorshir - mvvm persistence\\gyorshir\\mauishare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D629DD02-F222-428E-B76E-3183CE5861A9}|GyorsHir\\GyorsHir.csproj|solutionrelative:gyorshir\\mauishare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A6CE79-8331-4C08-B1A7-635E169B1379}|GyorsHir.ViewModel\\GyorsHir.ViewModel.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\gyorshir - mvvm persistence\\gyorshir.viewmodel\\ishare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A6CE79-8331-4C08-B1A7-635E169B1379}|GyorsHir.ViewModel\\GyorsHir.ViewModel.csproj|solutionrelative:gyorshir.viewmodel\\ishare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A6CE79-8331-4C08-B1A7-635E169B1379}|GyorsHir.ViewModel\\GyorsHir.ViewModel.csproj|c:\\patrikitworkspace\\elte_2025_26_1\\mobilapp\\gyorshir - mvvm persistence\\gyorshir.viewmodel\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A6CE79-8331-4C08-B1A7-635E169B1379}|GyorsHir.ViewModel\\GyorsHir.ViewModel.csproj|solutionrelative:gyorshir.viewmodel\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MAUIShare.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\GyorsHir - MVVM Persistence\\GyorsHir\\MAUIShare.cs",
+              "RelativeDocumentMoniker": "GyorsHir\\MAUIShare.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\GyorsHir - MVVM Persistence\\GyorsHir\\MAUIShare.cs",
+              "RelativeToolTip": "GyorsHir\\MAUIShare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:58:59.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IShare.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\GyorsHir - MVVM Persistence\\GyorsHir.ViewModel\\IShare.cs",
+              "RelativeDocumentMoniker": "GyorsHir.ViewModel\\IShare.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\GyorsHir - MVVM Persistence\\GyorsHir.ViewModel\\IShare.cs",
+              "RelativeToolTip": "GyorsHir.ViewModel\\IShare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:58:26.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\GyorsHir - MVVM Persistence\\GyorsHir\\App.xaml.cs",
+              "RelativeDocumentMoniker": "GyorsHir\\App.xaml.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\GyorsHir - MVVM Persistence\\GyorsHir\\App.xaml.cs",
+              "RelativeToolTip": "GyorsHir\\App.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:57:55.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsDetailsPage.xaml",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\GyorsHir - MVVM Persistence\\GyorsHir\\NewsDetailsPage.xaml",
+              "RelativeDocumentMoniker": "GyorsHir\\NewsDetailsPage.xaml",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\GyorsHir - MVVM Persistence\\GyorsHir\\NewsDetailsPage.xaml",
+              "RelativeToolTip": "GyorsHir\\NewsDetailsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-11T14:51:23.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\GyorsHir - MVVM Persistence\\GyorsHir.ViewModel\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "GyorsHir.ViewModel\\DelegateCommand.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\GyorsHir - MVVM Persistence\\GyorsHir.ViewModel\\DelegateCommand.cs",
+              "RelativeToolTip": "GyorsHir.ViewModel\\DelegateCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:46:55.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GyorsHirViewModel.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\GyorsHir - MVVM Persistence\\GyorsHir.ViewModel\\GyorsHirViewModel.cs",
+              "RelativeDocumentMoniker": "GyorsHir.ViewModel\\GyorsHirViewModel.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\GyorsHir - MVVM Persistence\\GyorsHir.ViewModel\\GyorsHirViewModel.cs",
+              "RelativeToolTip": "GyorsHir.ViewModel\\GyorsHirViewModel.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAUwJ4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:44:57.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsItemViewModel.cs",
+              "DocumentMoniker": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\GyorsHir - MVVM Persistence\\GyorsHir.ViewModel\\NewsItemViewModel.cs",
+              "RelativeDocumentMoniker": "GyorsHir.ViewModel\\NewsItemViewModel.cs",
+              "ToolTip": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\GyorsHir - MVVM Persistence\\GyorsHir.ViewModel\\NewsItemViewModel.cs",
+              "RelativeToolTip": "GyorsHir.ViewModel\\NewsItemViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wB4AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:43:39.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

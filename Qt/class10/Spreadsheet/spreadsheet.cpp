@@ -81,6 +81,16 @@ bool Spreadsheet::save(const QString &path) {
   return true;
 }
 
+void Spreadsheet::searchForward(const QString text, Qt::CaseSensitivity cs)
+{
+    search<1>(text, cs);
+}
+
+void Spreadsheet::searchBackward(const QString text, Qt::CaseSensitivity cs)
+{
+    search<-1>(text, cs);
+}
+
 Cell *Spreadsheet::getCell(int row, int column) const {
   return static_cast<Cell *>(item(row, column));
 }
