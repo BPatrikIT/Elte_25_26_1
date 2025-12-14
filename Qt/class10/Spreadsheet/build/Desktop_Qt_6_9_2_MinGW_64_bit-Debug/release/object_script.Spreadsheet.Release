@@ -1,0 +1,13 @@
+release/cell.o
+release/gotodialog.o
+release/main.o
+release/mainwindow.o
+release/persistence.o
+release/searchdialog.o
+release/spreadsheet.o
+release/qrc_resources.o
+release/moc_gotodialog.o
+release/moc_mainwindow.o
+release/moc_persistence.o
+release/moc_searchdialog.o
+release/moc_spreadsheet.o

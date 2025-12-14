@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StepStats.Model/1.0.0": {
+        "dependencies": {
+          "Microsoft.Maui.Essentials": "8.0.100"
+        },
+        "runtime": {
+          "StepStats.Model.dll": {}
+        }
+      },
+      "Microsoft.Maui.Essentials/8.0.100": {
+        "dependencies": {
+          "Microsoft.Maui.Graphics": "8.0.100"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Maui.Essentials.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "8.1.24.55705"
+          }
+        }
+      },
+      "Microsoft.Maui.Graphics/8.0.100": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Maui.Graphics.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "8.1.24.55705"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StepStats.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Maui.Essentials/8.0.100": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-quiPMYj10eDiKUkHLEEKAjuI0SAn7ZeZohmrh90Ebdl6fz4hVdDCmVfFyITGLtNbbSpkXvNJpeZwOWp2H5V9kQ==",
+      "path": "microsoft.maui.essentials/8.0.100",
+      "hashPath": "microsoft.maui.essentials.8.0.100.nupkg.sha512"
+    },
+    "Microsoft.Maui.Graphics/8.0.100": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FRvNIXnALXysAw0t0R5jmS4j4qs2n/NaWMcLrinMIoC2tQ/QIL68XEdN1OCtFRWvME8cR180TwSxpEjAIvlebA==",
+      "path": "microsoft.maui.graphics/8.0.100",
+      "hashPath": "microsoft.maui.graphics.8.0.100.nupkg.sha512"
+    }
+  }
+}

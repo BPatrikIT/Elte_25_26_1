@@ -1,0 +1,13 @@
+debug/cell.o
+debug/gotodialog.o
+debug/main.o
+debug/mainwindow.o
+debug/persistence.o
+debug/searchdialog.o
+debug/spreadsheet.o
+debug/qrc_resources.o
+debug/moc_gotodialog.o
+debug/moc_mainwindow.o
+debug/moc_persistence.o
+debug/moc_searchdialog.o
+debug/moc_spreadsheet.o

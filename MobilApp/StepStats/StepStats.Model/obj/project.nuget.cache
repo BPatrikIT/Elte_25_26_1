@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wwgcKnKNADw=",
+  "success": true,
+  "projectFilePath": "C:\\PatrikITWorkSpace\\Elte_2025_26_1\\MobilApp\\StepStats\\StepStats.Model\\StepStats.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barto\\.nuget\\packages\\microsoft.maui.essentials\\8.0.100\\microsoft.maui.essentials.8.0.100.nupkg.sha512",
+    "C:\\Users\\barto\\.nuget\\packages\\microsoft.maui.graphics\\8.0.100\\microsoft.maui.graphics.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
