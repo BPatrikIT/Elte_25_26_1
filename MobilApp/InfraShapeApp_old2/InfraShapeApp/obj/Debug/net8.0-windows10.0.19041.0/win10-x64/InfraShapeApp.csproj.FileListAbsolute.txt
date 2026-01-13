@@ -1,0 +1,12 @@
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\InfraShapeApp.csproj.AssemblyReference.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\InfraShapeApp.GeneratedMSBuildEditorConfig.editorconfig

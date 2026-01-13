@@ -1,0 +1,14 @@
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\bin\Debug\net8.0-windows10.0.19041.0\InfraShapeApp.deps.json
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\bin\Debug\net8.0-windows10.0.19041.0\InfraShapeApp.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\bin\Debug\net8.0-windows10.0.19041.0\InfraShapeApp.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\InfraShapeApp.csproj.AssemblyReference.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\InfraShapeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\InfraShapeApp.AssemblyInfoInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\InfraShapeApp.AssemblyInfo.cs
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\InfraShapeApp.csproj.CoreCompileInputs.cache
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\InfraShapeApp.sourcelink.json
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\XamlC.stamp
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\InfraShapeApp.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\refint\InfraShapeApp.dll
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\InfraShapeApp.pdb
+C:\PatrikITWorkSpace\Elte_2025_26_1\MobilApp\InfraShapeApp\InfraShapeApp\obj\Debug\net8.0-windows10.0.19041.0\ref\InfraShapeApp.dll

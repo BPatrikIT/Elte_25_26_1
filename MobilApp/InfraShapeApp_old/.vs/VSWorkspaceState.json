@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Models",
+    "\\Services",
+    "\\Services\\Interfaces",
+    "\\Services\\Local",
+    "\\ViewModels",
+    "\\Views"
+  ],
+  "SelectedNode": "\\ViewModels\\ProfileViewModel.cs",
+  "PreviewInSolutionExplorer": false
+}
