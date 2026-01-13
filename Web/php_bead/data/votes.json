@@ -1,0 +1,14 @@
+[
+    {
+        "user": 2,
+        "project": 101
+    },
+    {
+        "user": 1,
+        "project": 101
+    },
+    {
+        "user": 1,
+        "project": 102
+    }
+]
