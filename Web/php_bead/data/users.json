@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "email": "admin@bp.hu",
+        "password": "$2y$12$QwX1Im7Ka30Mnp3RJZZfHuaoKkQYCaM\/mEwQ592hqHFNwBsDGiQoW",
+        "is_admin": true
+    },
+    {
+        "id": 2,
+        "username": "juli",
+        "email": "juli@gmail.com",
+        "password": "$2y$10$examplehash",
+        "is_admin": false
+    },
+    {
+        "id": 3,
+        "username": "patrik",
+        "email": "patrik@email.hu",
+        "password": "$2y$12$ARwjmC836hAoBRYKnCRnY.UeGXxeSTxOAbW9gQ2lp1TZYDNYa2\/\/m",
+        "is_admin": false
+    },
+    {
+        "id": 4,
+        "username": "alm aalma",
+        "email": "bartokpatrikrobert@gmail.com",
+        "password": "$2y$12$L8LUEjVbRVL8nnulC0ZYaezCbmzroWkg7TIEmjSklzHLOxzrS2Nxu",
+        "is_admin": false
+    },
+    {
+        "id": 5,
+        "username": "adminadmin",
+        "email": "bartokpatrikrobert@gmail.com",
+        "password": "$2y$12$aRSjKj8CtgTQsuFuFYP0CevV\/G8V6wu2FgL1dzTWcb.oLJB1I3Abq",
+        "is_admin": false
+    }
+]

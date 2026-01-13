@@ -1,0 +1,110 @@
+[
+    {
+        "id": 101,
+        "status": 1,
+        "title": "Közösségi kert Óbudán",
+        "description": "Egy új közösségi kert létrehozása a III. kerületben, amely segíti a helyi lakosok együttműködését és zöldfelülethez jutását.",
+        "category": 4,
+        "postal_code": 1039,
+        "image": "",
+        "owner": 2,
+        "submitted": "2025-01-05 10:30",
+        "approved": "2025-01-10 08:00"
+    },
+    {
+        "id": 102,
+        "status": 1,
+        "title": "Iskolai digitális eszközök fejlesztése",
+        "description": "Laptopok és tabletek beszerzése hátrányos helyzetű diákok számára budapesti iskolákban.",
+        "category": 3,
+        "postal_code": 1082,
+        "image": "",
+        "owner": 2,
+        "submitted": "2025-01-03 14:00",
+        "approved": "2025-01-08 09:00"
+    },
+    {
+        "id": 103,
+        "status": 1,
+        "title": "Teszt Project",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit purus, finibus ut egestas in, porttitor in risus. Nam tincidunt non ex a commodo. Vivamus bibendum nisl nec erat dapibus, eget porttitor ipsum malesuada. Nullam a sem nunc. Sed id sem vel nunc sodales feugiat. Cras ut arcu nunc. Praesent volutpat odio tincidunt tortor placerat facilisis. Integer id vulputate justo. Fusce faucibus sit amet felis sed posuere. Donec vulputate venenatis erat, sit amet condimentum turpis porttitor a.\r\n\r\nNullam in nunc ut enim euismod congue fermentum ut nisi. Donec tristique dui ut egestas vehicula. Curabitur pellentesque ipsum nec commodo accumsan. Praesent pulvinar erat odio, non scelerisque ante fermentum at. In in molestie arcu. Maecenas et risus ut justo convallis dictum ut nec nisi. Donec sed est eleifend, efficitur magna vel, molestie dui. Integer in metus ac risus malesuada malesuada vel nec lorem. Fusce in quam magna. Praesent scelerisque felis non malesuada fringilla. Morbi tellus dolor, auctor id commodo id, semper eu enim.",
+        "category": 1,
+        "postal_code": "1141",
+        "image": "",
+        "owner": 3,
+        "submitted": "2026-01-11 17:04",
+        "approved": "2026-01-11 17:05"
+    },
+    {
+        "id": 104,
+        "status": 2,
+        "title": "Alma Banan Korte",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit purus, finibus ut egestas in, porttitor in risus. Nam tincidunt non ex a commodo. Vivamus bibendum nisl nec erat dapibus, eget porttitor ipsum malesuada. Nullam a sem nunc. Sed id sem vel nunc sodales feugiat. Cras ut arcu nunc. Praesent volutpat odio tincidunt tortor placerat facilisis. Integer id vulputate justo. Fusce faucibus sit amet felis sed posuere. Donec vulputate venenatis erat, sit amet condimentum turpis porttitor a.\r\n\r\nNullam in nunc ut enim euismod congue fermentum ut nisi. Donec tristique dui ut egestas vehicula. Curabitur pellentesque ipsum nec commodo accumsan. Praesent pulvinar erat odio, non scelerisque ante fermentum at. In in molestie arcu. Maecenas et risus ut justo convallis dictum ut nec nisi. Donec sed est eleifend, efficitur magna vel, molestie dui. Integer in metus ac risus malesuada malesuada vel nec lorem. Fusce in quam magna. Praesent scelerisque felis non malesuada fringilla. Morbi tellus dolor, auctor id commodo id, semper eu enim.",
+        "category": 1,
+        "postal_code": "1141",
+        "image": "",
+        "owner": 3,
+        "submitted": "2026-01-11 17:21",
+        "approved": ""
+    },
+    {
+        "id": 105,
+        "status": 2,
+        "title": "Alma Banan Korte",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit purus, finibus ut egestas in, porttitor in risus. Nam tincidunt non ex a commodo. Vivamus bibendum nisl nec erat dapibus, eget porttitor ipsum malesuada. Nullam a sem nunc. Sed id sem vel nunc sodales feugiat. Cras ut arcu nunc. Praesent volutpat odio tincidunt tortor placerat facilisis. Integer id vulputate justo. Fusce faucibus sit amet felis sed posuere. Donec vulputate venenatis erat, sit amet condimentum turpis porttitor a.\r\n\r\nNullam in nunc ut enim euismod congue fermentum ut nisi. Donec tristique dui ut egestas vehicula. Curabitur pellentesque ipsum nec commodo accumsan. Praesent pulvinar erat odio, non scelerisque ante fermentum at. In in molestie arcu. Maecenas et risus ut justo convallis dictum ut nec nisi. Donec sed est eleifend, efficitur magna vel, molestie dui. Integer in metus ac risus malesuada malesuada vel nec lorem. Fusce in quam magna. Praesent scelerisque felis non malesuada fringilla. Morbi tellus dolor, auctor id commodo id, semper eu enim.",
+        "category": 1,
+        "postal_code": "2141",
+        "image": "",
+        "owner": 3,
+        "submitted": "2026-01-11 17:21",
+        "approved": ""
+    },
+    {
+        "id": 106,
+        "status": 2,
+        "title": "Alma Banan Korte",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit purus, finibus ut egestas in, porttitor in risus. Nam tincidunt non ex a commodo. Vivamus bibendum nisl nec erat dapibus, eget porttitor ipsum malesuada. Nullam a sem nunc. Sed id sem vel nunc sodales feugiat. Cras ut arcu nunc. Praesent volutpat odio tincidunt tortor placerat facilisis. Integer id vulputate justo. Fusce faucibus sit amet felis sed posuere. Donec vulputate venenatis erat, sit amet condimentum turpis porttitor a.\r\n\r\nNullam in nunc ut enim euismod congue fermentum ut nisi. Donec tristique dui ut egestas vehicula. Curabitur pellentesque ipsum nec commodo accumsan. Praesent pulvinar erat odio, non scelerisque ante fermentum at. In in molestie arcu. Maecenas et risus ut justo convallis dictum ut nec nisi. Donec sed est eleifend, efficitur magna vel, molestie dui. Integer in metus ac risus malesuada malesuada vel nec lorem. Fusce in quam magna. Praesent scelerisque felis non malesuada fringilla. Morbi tellus dolor, auctor id commodo id, semper eu enim.",
+        "category": 1,
+        "postal_code": "2141",
+        "image": "",
+        "owner": 3,
+        "submitted": "2026-01-11 17:21",
+        "approved": ""
+    },
+    {
+        "id": 107,
+        "status": 2,
+        "title": "Alma Banan Korte",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit purus, finibus ut egestas in, porttitor in risus. Nam tincidunt non ex a commodo. Vivamus bibendum nisl nec erat dapibus, eget porttitor ipsum malesuada. Nullam a sem nunc. Sed id sem vel nunc sodales feugiat. Cras ut arcu nunc. Praesent volutpat odio tincidunt tortor placerat facilisis. Integer id vulputate justo. Fusce faucibus sit amet felis sed posuere. Donec vulputate venenatis erat, sit amet condimentum turpis porttitor a.\r\n\r\nNullam in nunc ut enim euismod congue fermentum ut nisi. Donec tristique dui ut egestas vehicula. Curabitur pellentesque ipsum nec commodo accumsan. Praesent pulvinar erat odio, non scelerisque ante fermentum at. In in molestie arcu. Maecenas et risus ut justo convallis dictum ut nec nisi. Donec sed est eleifend, efficitur magna vel, molestie dui. Integer in metus ac risus malesuada malesuada vel nec lorem. Fusce in quam magna. Praesent scelerisque felis non malesuada fringilla. Morbi tellus dolor, auctor id commodo id, semper eu enim.",
+        "category": 1,
+        "postal_code": "2141",
+        "image": "",
+        "owner": 3,
+        "submitted": "2026-01-11 17:21",
+        "approved": ""
+    },
+    {
+        "id": 108,
+        "status": 1,
+        "title": "TesztProject 234",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit purus, finibus ut egestas in, porttitor in risus. Nam tincidunt non ex a commodo. Vivamus bibendum nisl nec erat dapibus, eget porttitor ipsum malesuada. Nullam a sem nunc. Sed id sem vel nunc sodales feugiat. Cras ut arcu nunc. Praesent volutpat odio tincidunt tortor placerat facilisis. Integer id vulputate justo. Fusce faucibus sit amet felis sed posuere. Donec vulputate venenatis erat, sit amet condimentum turpis porttitor a.\r\n\r\nNullam in nunc ut enim euismod congue fermentum ut nisi. Donec tristique dui ut egestas vehicula. Curabitur pellentesque ipsum nec commodo accumsan. Praesent pulvinar erat odio, non scelerisque ante fermentum at. In in molestie arcu. Maecenas et risus ut justo convallis dictum ut nec nisi. Donec sed est eleifend, efficitur magna vel, molestie dui. Integer in metus ac risus malesuada malesuada vel nec lorem. Fusce in quam magna. Praesent scelerisque felis non malesuada fringilla. Morbi tellus dolor, auctor id commodo id, semper eu enim.",
+        "category": 1,
+        "postal_code": "2222",
+        "image": "",
+        "owner": 3,
+        "submitted": "2026-01-11 17:21",
+        "approved": "2026-01-11 17:43"
+    },
+    {
+        "id": 109,
+        "status": 2,
+        "title": "alma korte teszt",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis velit purus, finibus ut egestas in, porttitor in risus. Nam tincidunt non ex a commodo. Vivamus bibendum nisl nec erat dapibus, eget porttitor ipsum malesuada. Nullam a sem nunc. Sed id sem vel nunc sodales feugiat. Cras ut arcu nunc. Praesent volutpat odio tincidunt tortor placerat facilisis. Integer id vulputate justo. Fusce faucibus sit amet felis sed posuere. Donec vulputate venenatis erat, sit amet condimentum turpis porttitor a.\r\n\r\nNullam in nunc ut enim euismod congue fermentum ut nisi. Donec tristique dui ut egestas vehicula. Curabitur pellentesque ipsum nec commodo accumsan. Praesent pulvinar erat odio, non scelerisque ante fermentum at. In in molestie arcu. Maecenas et risus ut justo convallis dictum ut nec nisi. Donec sed est eleifend, efficitur magna vel, molestie dui. Integer in metus ac risus malesuada malesuada vel nec lorem. Fusce in quam magna. Praesent scelerisque felis non malesuada fringilla. Morbi tellus dolor, auctor id commodo id, semper eu enim.",
+        "category": 1,
+        "postal_code": "1007",
+        "image": "",
+        "owner": 3,
+        "submitted": "2026-01-11 17:24",
+        "approved": ""
+    }
+]
